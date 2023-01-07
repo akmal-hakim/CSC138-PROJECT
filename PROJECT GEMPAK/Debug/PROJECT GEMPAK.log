@@ -1,0 +1,20 @@
+﻿Build started 12/11/2018 10:24:33 AM.
+     1>Project "D:\assignment\Semester 2\CSC138\PROJECT GEMPAK\PROJECT GEMPAK\PROJECT GEMPAK.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\PROJECT GEMPAK.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\PROJECT GEMPAK.unsuccessfulbuild".
+         Touching "Debug\PROJECT GEMPAK.lastbuildstate".
+     1>Done Building Project "D:\assignment\Semester 2\CSC138\PROJECT GEMPAK\PROJECT GEMPAK\PROJECT GEMPAK.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.50
